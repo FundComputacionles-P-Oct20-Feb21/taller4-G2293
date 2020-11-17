@@ -15,4 +15,5 @@
 // salida
 9. Escribir "El area del triangulo :" 
 
-10. Fin
+10. FIN
+

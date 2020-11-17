@@ -1,0 +1,25 @@
+1. Inicio
+// declaro las variables
+2. costo1, d[0, n]
+3. costo2, d[0, n]
+4. costo3, d[0, n]
+5. costo total, d[0, n]
+
+// pido datos por teclado - entradas
+7. Escribir "Ingresar el costo1"
+8. Leer costo1
+9. Escribir "Ingrese el costo2"
+10. Leer costo2
+9. Escribir "Ingrese el costo3"
+10. Leer costo3
+
+// proceso
+13. costo total <-- costo1 * costo2 * costo3 
+
+// salida
+15. Escribir "El costo total :" 
+
+16. Fin
+
+
+
